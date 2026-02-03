@@ -7,4 +7,8 @@ Housing affordability in the Halifax Regonal Municipality has become increasingl
 
 This project evaluates the tradeoffs between enabling higher density housig through zoning reform in established neighbourhoods and continuing to expand housing supply through suburban greenfield development. using housing and demographic data alongside systems thinking tools, the analysis examines how these strategies influence housing supply, prices, infrastructure costs, and fiscal pressure overtime. The goal is to provide evidence based guidence to support municipal decision makers in balancing housing affordably with long term fiscal sustainability over the next decade. 
 
+## Initial CLD
+![6760939B-457D-488A-AF15-CBB875F2A281_1_105_c](https://github.com/user-attachments/assets/f4015268-48ac-41a0-b7ee-3979bea0144c)
+
+
 
