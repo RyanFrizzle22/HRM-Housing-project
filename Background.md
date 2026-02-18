@@ -21,11 +21,20 @@ Enviromental and transportion stakeholders
 
 # Planned Datasets 
 https://www.statcan.gc.ca/en/start (statistics canada) 
+> [!WARNING] 
+> Be more specific
 
 https://www.halifax.ca (Halifax Reginal Municipality)
+> [!WARNING] 
+> This isn't a dataset
 
 https://www.cmhc-schl.gc.ca/ (Canadien mortgage and housing corporation)
+> [!WARNING] 
+> Be more specific
 
+
+> [!TIP]
+> Check this out https://lemr.ca/data-maps/halifax/
 
 
 
