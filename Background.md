@@ -20,21 +20,18 @@ Halifax Regonal Municipal tax payers
 Enviromental and transportion stakeholders 
 
 # Planned Datasets 
-https://www.statcan.gc.ca/en/start (statistics canada) 
-> [!WARNING] 
-> Be more specific
+https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&SearchText=halifax&DGUIDlist=2021A00051209034&GENDERlist=1&STATISTIClist=1&HEADERlist=0
 
-https://www.halifax.ca (Halifax Reginal Municipality)
-> [!WARNING] 
-> This isn't a dataset
+https://data-hrm.hub.arcgis.com/datasets/18bd9d8f90c84f2caf80260c0ef91c82_0/explore?location=44.854030%2C-63.171178%2C8
+Regional Plan Generalized future Land use. (n.d.). https://data-hrm.hub.arcgis.com/datasets/18bd9d8f90c84f2caf80260c0ef91c82_0/explore?location=44.854030%2C-63.171178%2C8
 
-https://www.cmhc-schl.gc.ca/ (Canadien mortgage and housing corporation)
-> [!WARNING] 
-> Be more specific
+https://engagehalifax.ca/centre-plan-2026-updates
 
+https://data-hrm.hub.arcgis.com/datasets/HRM::zoning-boundaries/explore?location=44.853757%2C-63.171443%2C8
 
 > [!TIP]
 > Check this out https://lemr.ca/data-maps/halifax/
+
 
 
 
