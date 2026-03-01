@@ -26,6 +26,7 @@ The casual loop diagram highlights key feedback mechanisms affecting housing aff
 
 ## Visualization 1 
 
+![Visualization 1.mb} 
 
 
 
