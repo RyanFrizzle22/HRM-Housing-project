@@ -26,7 +26,7 @@ The casual loop diagram highlights key feedback mechanisms affecting housing aff
 
 ## Data Wrangling 
 
-![DataWrangling](img/Data Wrangling.png) 
+![DataWrangling](img/DataWrangling.png) 
 
 ## Visualization 1 
 
