@@ -26,7 +26,7 @@ The casual loop diagram highlights key feedback mechanisms affecting housing aff
 
 ## Visualization 1 
 
-![visualization1](Visualization%1.mb)
+![visualiztion1](img/picture1_.png)
 
 This visualization shows the percentage of rented households in core housing needs. It shows the change over recent years which is lowest at the end of 2022. This matters for the Zoning reform in Nova Scotia as it is expensive to make down payments on houses so with the reform In place it will likely lower cost of living and make it slightly more affordable if multiple units are created into duplexes and stuff rather than massive houses taking up a lot of space.
 
