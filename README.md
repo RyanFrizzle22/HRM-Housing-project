@@ -32,7 +32,7 @@ This visualization shows the percentage of rented households in core housing nee
 
 ## Visualization 2 
 
-![visualization2.mb](img/)
+![visualization2](img/picture_2.png)
 
 This visualization shows relationships between variables of regular households compared to renter households. There are 2 849 975 regular households compared to 1 094 675 renter households. When implementing a working with the reform over the next decade it this will allow cheaper and more affordable rent so people who can’t afford there ow house to be able to live comfortably while paying rent and all other necessities. 
 
