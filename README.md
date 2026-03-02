@@ -52,3 +52,7 @@ This visualization shows the percentage of renters in different parts of nova sc
 
 This visualization shows the number of property projects in nova scotia all over. With Halifax having a large amount of the population it is good that they have so many projects on the go. It is important for the zoning reform to have the projects starting now to allow for cheaper living to start developing now. Smaller places like Falmouth would see less projects on the go as population is small and all around more affordable living so its important Halifax is generating a lot of it for people who live in the city. 
 
+## Refined CLD Diagram 
+
+
+
