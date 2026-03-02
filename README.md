@@ -54,5 +54,6 @@ This visualization shows the number of property projects in nova scotia all over
 
 ## Refined CLD Diagram 
 
+![housingpolicyfeedbackloopdiagram](img/img/Housing policy feedback loop diagram.png) 
 
 
