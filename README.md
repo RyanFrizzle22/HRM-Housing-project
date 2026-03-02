@@ -56,4 +56,22 @@ This visualization shows the number of property projects in nova scotia all over
 
 ![housingpolicy](img/Housing_policy_feedback_loop_diagram.png) 
 
+## Explanation of key feedback loops and impications for the decision 
+
+## Balancing loop 
+
+The balancing loop captures the system’s natural constraints. As housing supply increases, available land for development decreases, especially in high-demand areas like Halifax. Reduced land availability can raise development costs and, in turn, rent prices, which lowers renter affordability. As affordability worsens, pressure may grow to slow development or maintain current regulations, limiting further supply expansion and stabilizing the system rather than allowing continued growth.
+
+## Reinforcing loop 
+
+The reinforcing loop in this system shows how zoning reform can generate self-sustaining improvements in affordability. When zoning reform allows the creation of more duplexes and apartments, housing supply increases. As supply expands, renter affordability improves, which can build political and public support for continued reform. That additional support enables further zoning changes, creating a cycle that strengthens itself over time.
+
+## Implications for the decisions 
+
+The implication of these feedback loops for the decision is that zoning reform has the potential to improve housing affordability, but its impact will depend on how the system’s constraints are managed. The reinforcing loop suggests that reform can generate compounding benefits over time by increasing housing supply and strengthening support for continued density and development. However, the balancing loop shows that land limitations and rising development costs may eventually slow or offset those gains, particularly in high-demand areas like Halifax. This means that zoning reform alone may not be sufficient; to sustain affordability improvements, it likely needs to be paired with policies that address land availability, infrastructure capacity, and cost pressures.
+
+## System Implications 
+
+Overall, the system behaves in a way that produces both growth and constraint at the same time. Zoning reform can trigger reinforcing dynamics that improve housing supply and affordability, but structural limits such as land scarcity and rising costs naturally push the system back toward equilibrium. This means affordability challenges are not caused by a single factor, but by interconnected feedback processes. Long-term improvement will depend on managing these feedback loops strategically rather than expecting one policy change to permanently solve the problem.
+
 
