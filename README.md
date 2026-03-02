@@ -24,6 +24,16 @@ This project evaluates the tradeoffs between enabling higher density housig thro
 
 The casual loop diagram highlights key feedback mechanisms affecting housing affordability and municipal finances in HRM. Reinforcing loop R1 shows how suburban expansion increases infrastructure costs and fiscal pressure, encouraging continued outward development. Loop R2 illustartes how economic opportunity and percieved desirability attract in migration, increasing housing demand and price pressures. Finally Loop B1 demonstartes how increased zoning permissiveness supports higher density infill development, exopandinng housing supply and eating affordability pressures overtime. 
 
+## Milestone 2 
+
+## Milestone 2: Data Sources summary
+
+Four datasets were used to inform the analysis of housing affordability and supply dynamics across Nova Scotia. The first examined the percentage of renters by community, highlighting variation in rental demand and identifying areas where affordability pressures may be strongest. The second analyzed active residential housing projects by community, showing how development activity is distributed across the province and where supply expansion is most concentrated. The third dataset tracked core housing need over time, providing insight into broader trends in housing adequacy and affordability challenges. The fourth examined rent price trends over time, demonstrating sustained upward pressure on rental costs across Nova Scotia. Together, these data sources helped identify key system variables—such as renter concentration, housing supply growth, development distribution, rent escalation, and affordability pressures—and directly informed the refinement of the Causal Loop Diagram.
+
+## Data Sources 
+
+
+
 ## Data Wrangling 
 
 ![DataWrangling](img/DataWrangling.png) 
