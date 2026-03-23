@@ -107,4 +107,8 @@ The reinforcing side of the system is that continued demand for housing increase
 
 Evidence from milestone 2 that supports this structure:
 
+-Figure 1 Showed that changes in core housing need over time, indicating that affordability pressure remains a persistent issue accross the province
+-Figure 2 Showecd the large difference between regular households and renter households, highlighting the scale of reliance on rental housing and the importance or affordable rental supply
+-Figure 3 showed that renter concentration varies accross different parts of nova scotia, suggesting that affordability pressure is unevenly distributed and stronger in some communities than others
+-Figure 4 showed that active property development projects are concentrated in a limited number of commmunities, meaning supply growth is not occouriing evenly accross the province
 
