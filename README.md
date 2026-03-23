@@ -1,6 +1,32 @@
 # HRM-Housing-project
 Housing Affordability and Fiscal Sustainability in Halifax 
 
+
+## Live Dashboard
+[View the Streamlit Dashboard here](https://hrm-housing-project-ipzb4fxhbv3d8jhgv9sgdb.streamlit.app/)
+
+## Project Overview
+This dashboard supports housing policy decision-making in Halifax by helping users compare renter concentration across zones, track changes over time, and examine the relationship between population and vacancy conditions. Together, these patterns can help identify where housing pressure may be strongest and where policy responses such as zoning reform, supply expansion, or targeted planning attention may be most needed.
+
+## Dashboard Features
+- Interactive bar chart comparing percentage of renter households across rental market survey zones
+- Interactive line chart showing how percentage of renter households changes over time
+- Interactive scatter plot exploring the relationship between population and primary market vacancy rate
+- User inputs that allow the viewer to change datasets, variables, and filters
+
+## User Guide
+1. Open the live dashboard using the link above.
+2. Use the left sidebar to choose a dataset and apply filters.
+3. In Visualization 1, compare renter concentration across different rental market survey zones.
+4. In Visualization 2, examine how renter concentration changes over time.
+5. In Visualization 3, explore the relationship between population and vacancy rate across zones.
+6. Use the Decision Support Summary at the bottom to interpret what the patterns may imply for housing policy and planning decisions.
+
+## Repository Structure
+- `src/app.py` contains the Streamlit dashboard code
+- `data/` contains the datasets used in the dashboard
+- `requirements.txt` lists the Python packages needed to run the app
+
 ## Decision Statement 
 
 Should the Nova Scotia prioritze zoning reform to enable higher-density housing in established neighbourhoodsor continue expanding housingsupply through suburban greenfield development, in order to improve affordability while maintaining municipal fiscal sustainabilityy over the next decade. 
