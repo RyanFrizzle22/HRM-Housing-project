@@ -102,3 +102,9 @@ Key Variables in this archetype include:
 -Rent Affordability 
 -Active Housing Project 
 -Development Approval Capacity
+
+The reinforcing side of the system is that continued demand for housing increases pressure for more development and policy change. However, when reform and supporting investment are delayed, the system cannot expand supply quickly enough, causing affordability problems to persist or worsen.
+
+Evidence from milestone 2 that supports this structure:
+
+
