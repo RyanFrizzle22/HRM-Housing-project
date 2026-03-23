@@ -141,3 +141,37 @@ when decision makers prioritize zoning reform and allow more duplexes, apartment
 ## Scenario 3: Greenfield and Suburbam Expansion (Intervention B)
 
 If Nova Scotia mainly focuses on suburban and greenfield development, the province may be able to add housing units more quickly in the short term, especially in quickly growing regions with available land. This could reduce some immediate pressure by increasing supply at a larger scale than small infill projects alone. However, this approach would do less to address the structural barriers within established communities, so the core system problem would remain. Over time, this option could strengthen balancing pressures through rising infrastructure costs, more dispersed development, and greater dependence on outward expansion. While more housing would be built, affordability gains may be limited if the new supply is costly to service or not located where rental demand is highest. In the long run, this could create more units without fully solving the province’s affordability challenges.
+
+## Leverage Point Anaylisis 
+
+The most effective leverage point in this system would be:
+
+Accelerating Zoning reform to allow more Higher Density and Multi Unit housing in established communities 
+
+This leverage point has high impact becasue it directly influences the reinforcing loop driving housing supply and renter affordability. By allowing more duplexes, apartments, and mid rise developments, the system becomes more responsive to hosuing demand rather than remaining contrained by outdated land use rules.
+
+This intervention affects multiple variables:
+
+-increases housing supply
+
+-Improves renter affordability 
+
+-reduces pressure on rent prices
+
+-Expands teh creation of duplexs and apartments 
+
+-makes better use of existing infrastructure
+
+It also strengthens the reinforcing loop in the system by making it easier for supply to grow as demand increases. At the same time, it helps weaken the balancing pressures caused by limited housing options, delayed development, and rising affordability challenges.
+
+Potential Risks 
+
+-Public resistance to increased density
+
+-Delays in municipal implementation 
+
+-infrasturcture capacity concerns in some cumminities 
+
+-The possibility that new development may not immediately reach lower income households 
+
+Despite these risks, this leverage point offers the strongest system-wide impact relative to effort because it changes the structure of the housing system rather than only reacting to its symptoms. By removing barriers to denser development, Nova Scotia can better address long-term affordability, reduce pressure on the rental market, and improve the province’s ability to meet future housing demand.
