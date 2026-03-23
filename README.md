@@ -127,3 +127,9 @@ This reflects a system in which growth in housing need is approaching the limits
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a6d02786-f89e-4ac3-a62f-339ac36487fc" />
 
 This reflects a system in which growth in housing need is approaching the limits of current planning anf development capacity, while deeper structural investment in zoning reform and supply expansion has not caught up fully yet 
+
+## Scenario Narratives
+
+## Scenario 1: Status Quo (No Major Change) 
+
+If Nova Scotia continues with its current approach, Housing supply will likely keep increasing, but not at a pace that fully will match rising demand over the next 5 to 10 years. Development would remain uneven accross the province, with some communities seeing more activity than other, while affrodability pressure continue for renters and lower income households. In this scenario, the balancing loop from the CLD remains strong becasue delays in approvals, limited zoning reform, and unevem project distribution continue to slow the system's response. Rent prices may stay high even if vacancy rates improve somewhat, becasue affrodable units would still be limited in many areas. Over time, this could leave the province with continued afforability stress and only modest improvement in overall housing access. 
