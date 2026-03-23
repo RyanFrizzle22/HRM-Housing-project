@@ -125,3 +125,5 @@ This reflects a system in which growth in housing need is approaching the limits
 ## System Archetype Diagram 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a6d02786-f89e-4ac3-a62f-339ac36487fc" />
+
+This reflects a system in which growth in housing need is approaching the limits of current planning anf development capacity, while deeper structural investment in zoning reform and supply expansion has not caught up fully yet 
