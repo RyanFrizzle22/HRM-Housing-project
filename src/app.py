@@ -123,56 +123,52 @@ if len(numeric_cols) >= 2:
     st.write("## Visualization 3: Scatter Plot")
 
     scatter_x_options = numeric_cols
-default_scatter_x = scatter_x_options.index("Population") if "Population" in scatter_x_options else 0
+    default_scatter_x = scatter_x_options.index("Population") if "Population" in scatter_x_options else 0
 
-x_scatter = st.selectbox(
-    "Scatter plot x-axis",
-    options=scatter_x_options,
-    index=default_scatter_x,
-    key="scatter_x"
-)
-
-scatter_y_options = [col for col in numeric_cols if col != x_scatter]
-default_scatter_y = scatter_y_options.index("Primary market vacancy rate") if "Primary market vacancy rate" in scatter_y_options else 0
-
-y_scatter = st.selectbox(
-    "Scatter plot y-axis",
-    options=scatter_y_options,
-    index=default_scatter_y,
-    key="scatter_y"
-)
-
-color_options = ["None"] + categorical_cols
-default_color = color_options.index("Rental Market Survey zone") if "Rental Market Survey zone" in color_options else 0
-
-color_col = st.selectbox(
-    "Optional color grouping",
-    options=color_options,
-    index=default_color,
-    key="scatter_color"
-)
-
-if color_col == "None":
-    fig3 = px.scatter(
-        filtered_df,
-        x=x_scatter,
-        y=y_scatter,
-        title=f"{y_scatter} vs {x_scatter}"
-    )
-else:
-    fig3 = px.scatter(
-        filtered_df,
-        x=x_scatter,
-        y=y_scatter,
-        color=color_col,
-        title=f"{y_scatter} vs {x_scatter}"
+    x_scatter = st.selectbox(
+        "Scatter plot x-axis",
+        options=scatter_x_options,
+        index=default_scatter_x,
+        key="scatter_x"
     )
 
-st.plotly_chart(fig3, use_container_width=True)
+    scatter_y_options = [col for col in numeric_cols if col != x_scatter]
+    default_scatter_y = scatter_y_options.index("Primary market vacancy rate") if "Primary market vacancy rate" in scatter_y_options else 0
 
-st.markdown("This chart helps show whether two numeric variables appear to move together.")
- st.plotly_chart(fig3, use_container_width=True)
+    y_scatter = st.selectbox(
+        "Scatter plot y-axis",
+        options=scatter_y_options,
+        index=default_scatter_y,
+        key="scatter_y"
+    )
 
+    color_options = ["None"] + categorical_cols
+    default_color = color_options.index("Rental Market Survey zone") if "Rental Market Survey zone" in color_options else 0
+
+    color_col = st.selectbox(
+        "Optional color grouping",
+        options=color_options,
+        index=default_color,
+        key="scatter_color"
+    )
+
+    if color_col == "None":
+        fig3 = px.scatter(
+            filtered_df,
+            x=x_scatter,
+            y=y_scatter,
+            title=f"{y_scatter} vs {x_scatter}"
+        )
+    else:
+        fig3 = px.scatter(
+            filtered_df,
+            x=x_scatter,
+            y=y_scatter,
+            color=color_col,
+            title=f"{y_scatter} vs {x_scatter}"
+        )
+
+    st.plotly_chart(fig3, use_container_width=True)
     st.markdown("This chart helps show whether two numeric variables appear to move together.")
 else:
     st.info("A scatter plot requires at least two numeric columns.")
