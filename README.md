@@ -123,3 +123,5 @@ Evidence from milestone 2 that supports this structure:
 This reflects a system in which growth in housing need is approaching the limits of current planning and development capacity, while deeper structural investment in zonign reform and supply expansion has not fully caught up yet
 
 ## System Archetype Diagram 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/acbf08b6-f146-4fc3-8a03-0606458a42bd" />
