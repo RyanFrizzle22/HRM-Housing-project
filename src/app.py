@@ -56,7 +56,13 @@ if filter_col and filter_col != "None":
 st.write("## Visualization 1: Bar Chart")
 
 x_bar = st.selectbox("Bar chart category", options=filtered_df.columns, key="bar_x")
-y_bar = st.selectbox("Bar chart numeric value", options=numeric_cols, key="bar_y")
+
+bar_y_options = [col for col in numeric_cols if col != x_bar]
+if not bar_y_options:
+    st.warning("No valid numeric columns available for the bar chart.")
+    st.stop()
+
+y_bar = st.selectbox("Bar chart numeric value", options=bar_y_options, key="bar_y")
 
 bar_data = filtered_df.groupby(x_bar, dropna=False)[y_bar].mean().reset_index()
 
@@ -68,7 +74,13 @@ st.markdown("This chart compares the average value of the selected measure acros
 st.write("## Visualization 2: Line Chart")
 
 x_line = st.selectbox("Line chart x-axis", options=filtered_df.columns, key="line_x")
-y_line = st.selectbox("Line chart y-axis", options=numeric_cols, key="line_y")
+
+line_y_options = [col for col in numeric_cols if col != x_line]
+if not line_y_options:
+    st.warning("No valid numeric columns available for the line chart.")
+    st.stop()
+
+y_line = st.selectbox("Line chart y-axis", options=line_y_options, key="line_y")
 
 line_data = filtered_df.groupby(x_line, dropna=False)[y_line].mean().reset_index()
 
