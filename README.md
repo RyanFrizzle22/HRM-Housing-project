@@ -94,4 +94,11 @@ Overall, the system behaves in a way that produces both growth and constraint at
 
 The system underlying housing affordability in Nova Scotia most closely reflects Growth and Underinvestment. In this system, rising housing demand places increasing pressure on the province’s housing suppl and rental market, also affordability. While zoning reform and higher-density development could help relieve this pressure, investment in supportive policies, infrastructure, and regulatory change is often delayed or insufficient relative to the pace of demand growth.
 
+Key Variables in this archetype include:
 
+-Housing Demand 
+-Housing Supply
+-Rent Prices
+-Rent Affordability 
+-Active Housing Project 
+-Development Approval Capacity
