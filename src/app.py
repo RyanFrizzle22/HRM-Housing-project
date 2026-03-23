@@ -152,12 +152,26 @@ color_col = st.selectbox(
     key="scatter_color"
 )
 
-    if color_col == "None":
-        fig3 = px.scatter(filtered_df, x=x_scatter, y=y_scatter, title=f"{y_scatter} vs {x_scatter}")
-    else:
-        fig3 = px.scatter(filtered_df, x=x_scatter, y=y_scatter, color=color_col, title=f"{y_scatter} vs {x_scatter}")
+if color_col == "None":
+    fig3 = px.scatter(
+        filtered_df,
+        x=x_scatter,
+        y=y_scatter,
+        title=f"{y_scatter} vs {x_scatter}"
+    )
+else:
+    fig3 = px.scatter(
+        filtered_df,
+        x=x_scatter,
+        y=y_scatter,
+        color=color_col,
+        title=f"{y_scatter} vs {x_scatter}"
+    )
 
-    st.plotly_chart(fig3, use_container_width=True)
+st.plotly_chart(fig3, use_container_width=True)
+
+st.markdown("This chart helps show whether two numeric variables appear to move together.")
+ st.plotly_chart(fig3, use_container_width=True)
 
     st.markdown("This chart helps show whether two numeric variables appear to move together.")
 else:
