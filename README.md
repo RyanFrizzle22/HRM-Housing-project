@@ -3,7 +3,7 @@ Housing Affordability and Fiscal Sustainability in Halifax
 
 ## Decision Statement 
 
-Should the halifax Reginal Municipality prioritze zoning reform to enable higher-density housing in established neighbourhoodsor continue expanding housingsupply through suburban greenfield development, in order to improve affordability while maintaining municipal fiscal sustainabilityy over the next decade. 
+Should the Nova Scotia prioritze zoning reform to enable higher-density housing in established neighbourhoodsor continue expanding housingsupply through suburban greenfield development, in order to improve affordability while maintaining municipal fiscal sustainabilityy over the next decade. 
 
 > [!WARNING]
 > There are others doing this already in the class. There is a requirement to be unique to you.  Consider pivoting to your hometown.
