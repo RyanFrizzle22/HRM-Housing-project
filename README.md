@@ -120,3 +120,6 @@ Evidence from milestone 2 that supports this structure:
 
 -Figure 4 showed that active property development projects are concentrated in a limited number of commmunities, meaning supply growth is not occouriing evenly accross the province
 
+This reflects a system in which growth in housing need is approaching the limits of current planning and development capacity, while deeper structural investment in zonign reform and supply expansion has not fully caught up yet
+
+## System Archetype Diagram 
