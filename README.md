@@ -175,3 +175,13 @@ Potential Risks
 -The possibility that new development may not immediately reach lower income households 
 
 Despite these risks, this leverage point offers the strongest system-wide impact relative to effort because it changes the structure of the housing system rather than only reacting to its symptoms. By removing barriers to denser development, Nova Scotia can better address long-term affordability, reduce pressure on the rental market, and improve the province’s ability to meet future housing demand.
+
+## Impications for this decision 
+
+The analysis suggests that Nova Scotia’s housing system is characterized by rising demand and affordability pressure without a fast enough expansion in housing supply.
+
+Among the options, prioritizing zoning reform and higher-density development appears to be the strongest long-term strategy because it addresses the structural barriers limiting supply rather than only responding to symptoms. While greenfield development may add units more quickly in the short term, it does less to improve efficiency and may create higher long-term infrastructure costs. 
+
+The status quo would likely allow affordability challenges to continue, reinforcing the need for intervention.
+
+Overall, this suggests that decision-makers should prioritize zoning reform as the most effective way to improve housing affordability, strengthen system responsiveness, and support more sustainable growth across Nova Scotia.
