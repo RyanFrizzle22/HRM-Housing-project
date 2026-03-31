@@ -33,7 +33,6 @@ Housing affordability in the Halifax Regional Municipality has become increasing
 
 This project evaluates the trade-offs between enabling higher-density housing through zoning reform in established neighbourhoods and continuing to expand housing supply through suburban greenfield development. Using housing and demographic data alongside systems thinking tools, the analysis examines how these strategies influence housing supply, prices, infrastructure costs, and fiscal pressure over time. The goal is to provide evidence-based guidance to support municipal decision-makers in balancing housing affordability with long-term fiscal sustainability over the next decade.
 
-[Read more](Background.md)
 
 ## Live Dashboard
 [View the Streamlit Dashboard here](https://hrm-housing-project-ipzb4fxhbv3d8jhgv9sgdb.streamlit.app/)
