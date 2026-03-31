@@ -32,7 +32,7 @@ This project evaluates the trade-offs between enabling higher-density housing th
 
 Four datasets were used to inform the analysis of housing affordability and supply dynamics across Nova Scotia. The first examined the percentage of renters by community, highlighting variation in rental demand and identifying areas where affordability pressures may be strongest. The second analyzed active residential housing projects by community, showing how development activity is distributed across the province and where supply expansion is most concentrated. The third dataset tracked core housing need over time, providing insight into broader trends in housing adequacy and affordability challenges. The fourth examined rent price trends over time, demonstrating sustained upward pressure on rental costs across Nova Scotia. Together, these data sources helped identify key system variables—such as renter concentration, housing supply growth, development distribution, rent escalation, and affordability pressures—and directly informed the refinement of the Causal Loop Diagram.
 
-## Data Sources 
+### Source Links
 
 https://data-hrm.hub.arcgis.com/datasets/HRM::zoning-boundaries/explore?location=44.853757%2C-63.171443%2C8
 
