@@ -219,4 +219,4 @@ Another important area for future work would be expanding the project into a sce
 - Halifax Regional Municipality data portal: https://www.halifax.ca
 - LEMR Halifax data maps: https://lemr.ca/data-maps/halifax/
 - HRM zoning boundaries dataset: https://data-hrm.hub.arcgis.com/datasets/HRM::zoning-boundaries/explore?location=44.853757%2C-63.171443%2C8
-- Residential housing projects dataset: [link]
+
