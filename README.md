@@ -70,7 +70,7 @@ https://data-hrm.hub.arcgis.com/datasets/HRM::zoning-boundaries/explore?location
 
 ## Visualization 1 
 
-![visualiztion1](img/picture1_.png)
+![visualiztion1](img/viz-renter-households-time.png) 
 
 This visualization shows the percentage of rented households in core housing needs. It shows the change over recent years which is lowest at the end of 2022. This matters for the Zoning reform in Nova Scotia as it is expensive to make down payments on houses so with the reform In place it will likely lower cost of living and make it slightly more affordable if multiple units are created into duplexes and stuff rather than massive houses taking up a lot of space.
 
