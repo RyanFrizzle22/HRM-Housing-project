@@ -46,25 +46,25 @@ https://data-hrm.hub.arcgis.com/datasets/HRM::zoning-boundaries/explore?location
 
 ## Exploratory Findings
 
-## Visualization 1 
+## Renter Households Over Time 
 
 ![visualiztion1](img/viz-renter-households-time.png) 
 
 This visualization shows the percentage of rented households in core housing needs. It shows the change over recent years which is lowest at the end of 2022. This matters for the Zoning reform in Nova Scotia as it is expensive to make down payments on houses so with the reform In place it will likely lower cost of living and make it slightly more affordable if multiple units are created into duplexes and stuff rather than massive houses taking up a lot of space.
 
-## Visualization 2 
+## Households vs Renter Households
 
 ![visualization2](img/viz-households-vs-renter-households.png) 
 
 This visualization shows relationships between variables of regular households compared to renter households. There are 2 849 975 regular households compared to 1 094 675 renter households. When implementing a working with the reform over the next decade it this will allow cheaper and more affordable rent so people who can’t afford there ow house to be able to live comfortably while paying rent and all other necessities. 
 
-## Visualization 3 
+## Renter Households by Zone
 
 ![visualization3](img/viz-renter-households-by-zone.png) 
 
 This visualization shows the percentage of renters in different parts of nova scotia. This refers to my CLD diagram when breaking down affordability. So, you see that Dartmouth has high renting percentage compared to Bedford as it is more of an affordable place to rent with apartments and duplexes, which are going to be the cheaper option then renting a whole house as Bedford has a more limited option then the higher percentage places.
 
-## Visualization 4 
+## Projects by Community
 
 ![visualization4](img/viz-projects-by-community.png) 
 
