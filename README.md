@@ -40,7 +40,7 @@ https://data-hrm.hub.arcgis.com/datasets/HRM::zoning-boundaries/explore?location
  
  https://lemr.ca/data-maps/halifax/
 
-## Data Wrangling 
+## Data Wrangling Process
 
 ![DataWrangling](img/wrangling-flow.png) 
 
