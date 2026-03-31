@@ -1,6 +1,19 @@
 # HRM-Housing-project
 Housing Affordability and Fiscal Sustainability in Halifax 
 
+## Decision Statement 
+
+Should Nova Scotia prioritize zoning reform to enable higher-density housing in established neighbourhoods, or continue expanding housing supply through suburban greenfield development, in order to improve affordability while maintaining municipal fiscal sustainability over the next decade?
+
+## Executive Summary 
+
+Housing affordability in the Halifax Regional Municipality has become increasingly strained as population growth, low vacancy rates, and rising housing costs place pressure on renters and prospective homebuyers. At the same time, the municipality faces long-term fiscal challenges related to infrastructure expansion and service delivery, making decisions about housing development patterns especially consequential. How and where new housing is built therefore has significant implications for both affordability outcomes and municipal financial sustainability.
+
+This project evaluates the trade-offs between enabling higher-density housing through zoning reform in established neighbourhoods and continuing to expand housing supply through suburban greenfield development. Using housing and demographic data alongside systems thinking tools, the analysis examines how these strategies influence housing supply, prices, infrastructure costs, and fiscal pressure over time. The goal is to provide evidence-based guidance to support municipal decision-makers in balancing housing affordability with long-term fiscal sustainability over the next decade.
+
+## Live Dashboard
+[View the Streamlit Dashboard here](https://hrm-housing-project-ipzb4fxhbv3d8jhgv9sgdb.streamlit.app/) 
+
 ## Project Overview
 This dashboard supports housing policy decision-making in Halifax by helping users compare renter concentration across zones, track changes over time, and examine the relationship between population and vacancy conditions. Together, these patterns can help identify where housing pressure may be strongest and where policy responses such as zoning reform, supply expansion, or targeted planning attention may be most needed.
 
@@ -16,26 +29,7 @@ This dashboard supports housing policy decision-making in Halifax by helping use
 3. In Visualization 1, compare renter concentration across different rental market survey zones.
 4. In Visualization 2, examine how renter concentration changes over time.
 5. In Visualization 3, explore the relationship between population and vacancy rate across zones.
-6. Use the Decision Support Summary at the bottom to interpret what the patterns may imply for housing policy and planning decisions.
-
-## Repository Structure
-- `src/app.py` contains the Streamlit dashboard code
-- `data/` contains the datasets used in the dashboard
-- `requirements.txt` lists the Python packages needed to run the app
-
-## Decision Statement 
-
-Should Nova Scotia prioritize zoning reform to enable higher-density housing in established neighbourhoods, or continue expanding housing supply through suburban greenfield development, in order to improve affordability while maintaining municipal fiscal sustainability over the next decade?
-
-## Executive Summary 
-
-Housing affordability in the Halifax Regional Municipality has become increasingly strained as population growth, low vacancy rates, and rising housing costs place pressure on renters and prospective homebuyers. At the same time, the municipality faces long-term fiscal challenges related to infrastructure expansion and service delivery, making decisions about housing development patterns especially consequential. How and where new housing is built therefore has significant implications for both affordability outcomes and municipal financial sustainability.
-
-This project evaluates the trade-offs between enabling higher-density housing through zoning reform in established neighbourhoods and continuing to expand housing supply through suburban greenfield development. Using housing and demographic data alongside systems thinking tools, the analysis examines how these strategies influence housing supply, prices, infrastructure costs, and fiscal pressure over time. The goal is to provide evidence-based guidance to support municipal decision-makers in balancing housing affordability with long-term fiscal sustainability over the next decade.
-
-
-## Live Dashboard
-[View the Streamlit Dashboard here](https://hrm-housing-project-ipzb4fxhbv3d8jhgv9sgdb.streamlit.app/) 
+6. Use the Decision Support Summary at the bottom to interpret what the patterns may imply for housing policy and planning decisions. 
 
 ## Data Sources 
 
