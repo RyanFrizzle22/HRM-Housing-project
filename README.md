@@ -44,6 +44,8 @@ https://data-hrm.hub.arcgis.com/datasets/HRM::zoning-boundaries/explore?location
 
 ![DataWrangling](img/wrangling-flow.png) 
 
+## Exploratory Findings
+
 ## Visualization 1 
 
 ![visualiztion1](img/viz-renter-households-time.png) 
