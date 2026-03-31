@@ -40,13 +40,6 @@ This project evaluates the tradeoffs between enabling higher density housig thro
 
 [Read more](Background.md)
 
-## Initial CLD
-
-![Casual Loop Diagram](img/cld.png)
-
-## CLD brief description 
-
-The casual loop diagram highlights key feedback mechanisms affecting housing affordability and municipal finances in HRM. Reinforcing loop R1 shows how suburban expansion increases infrastructure costs and fiscal pressure, encouraging continued outward development. Loop R2 illustartes how economic opportunity and percieved desirability attract in migration, increasing housing demand and price pressures. Finally Loop B1 demonstartes how increased zoning permissiveness supports higher density infill development, exopandinng housing supply and eating affordability pressures overtime. 
 
 ## Milestone 2 
 
