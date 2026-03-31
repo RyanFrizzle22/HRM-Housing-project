@@ -50,13 +50,13 @@ https://data-hrm.hub.arcgis.com/datasets/HRM::zoning-boundaries/explore?location
 
 ![visualiztion1](img/viz-renter-households-time.png) 
 
-This visualization shows the percentage of rented households in core housing needs. It shows the change over recent years which is lowest at the end of 2022. This matters for the Zoning reform in Nova Scotia as it is expensive to make down payments on houses so with the reform In place it will likely lower cost of living and make it slightly more affordable if multiple units are created into duplexes and stuff rather than massive houses taking up a lot of space.
+“This visualization shows the percentage of renter households in core housing need over time. It helps show whether affordability pressures in HRM are improving or worsening, which matters when evaluating whether zoning reform could support more affordable housing options.”
 
 ## Households vs Renter Households
 
 ![visualization2](img/viz-households-vs-renter-households.png) 
 
-This visualization shows relationships between variables of regular households compared to renter households. There are 2 849 975 regular households compared to 1 094 675 renter households. When implementing a working with the reform over the next decade it this will allow cheaper and more affordable rent so people who can’t afford there ow house to be able to live comfortably while paying rent and all other necessities. 
+“This visualization shows how renter concentration differs across rental market survey zones in HRM. Higher renter concentration can signal where affordability pressures may be strongest and where policy attention may be most needed.”
 
 ## Renter Households by Zone
 
@@ -68,7 +68,7 @@ This visualization shows the percentage of renters in different parts of nova sc
 
 ![visualization4](img/viz-projects-by-community.png) 
 
-This visualization shows the number of property projects in nova scotia all over. With Halifax having a large amount of the population it is good that they have so many projects on the go. It is important for the zoning reform to have the projects starting now to allow for cheaper living to start developing now. Smaller places like Falmouth would see less projects on the go as population is small and all around more affordable living so its important Halifax is generating a lot of it for people who live in the city. 
+“This visualization shows the distribution of active residential housing projects across communities in HRM. It helps identify where new supply is concentrated and whether development activity is occurring in the areas facing the greatest housing pressure.” 
 
 ## Refined CLD Diagram 
 
