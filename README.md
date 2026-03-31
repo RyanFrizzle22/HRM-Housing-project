@@ -1,10 +1,6 @@
 # HRM-Housing-project
 Housing Affordability and Fiscal Sustainability in Halifax 
 
-
-## Live Dashboard
-[View the Streamlit Dashboard here](https://hrm-housing-project-ipzb4fxhbv3d8jhgv9sgdb.streamlit.app/)
-
 ## Project Overview
 This dashboard supports housing policy decision-making in Halifax by helping users compare renter concentration across zones, track changes over time, and examine the relationship between population and vacancy conditions. Together, these patterns can help identify where housing pressure may be strongest and where policy responses such as zoning reform, supply expansion, or targeted planning attention may be most needed.
 
@@ -40,6 +36,8 @@ This project evaluates the tradeoffs between enabling higher density housig thro
 
 [Read more](Background.md)
 
+## Live Dashboard
+[View the Streamlit Dashboard here](https://hrm-housing-project-ipzb4fxhbv3d8jhgv9sgdb.streamlit.app/)
 
 ## Milestone 2: Data Sources summary
 
