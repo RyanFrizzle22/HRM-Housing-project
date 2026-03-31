@@ -66,7 +66,7 @@ https://data-hrm.hub.arcgis.com/datasets/HRM::zoning-boundaries/explore?location
 
 ## Data Wrangling 
 
-![DataWrangling](img/DataWrangling.png) 
+![DataWrangling](img/wrangling-flow.png) 
 
 ## Visualization 1 
 
