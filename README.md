@@ -211,3 +211,12 @@ A second limitation is that the visualizations and system analysis show relation
 Future work could strengthen this project in several ways. A useful next step would be to add more detailed data on housing starts, completions, vacancy rates by neighbourhood, infrastructure servicing costs, and municipal approval times. This would allow for a more precise comparison between zoning reform and continued suburban expansion. It would also be valuable to track whether new housing supply improves affordability for the groups under the most pressure, especially renters and lower-income households.
 
 Another important area for future work would be expanding the project into a scenario-based or simulation model. That could help estimate how different policy choices might affect affordability, housing supply, and fiscal sustainability over a longer time horizon. Overall, while this project has limits, it still provides a useful systems-based foundation for understanding housing policy trade-offs in HRM and identifying where decision-makers may have the greatest leverage.
+
+## References
+
+- CMHC Rental Market Report: 
+- Statistics Canada: [link]
+- Halifax Regional Municipality data portal: [link]
+- LEMR Halifax data maps: [link]
+- HRM zoning boundaries dataset: [link]
+- Residential housing projects dataset: [link]
