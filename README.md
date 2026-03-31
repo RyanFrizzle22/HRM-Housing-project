@@ -189,3 +189,17 @@ Among the options, prioritizing zoning reform and higher-density development app
 The status quo would likely allow affordability challenges to continue, reinforcing the need for intervention.
 
 Overall, this suggests that decision-makers should prioritize zoning reform as the most effective way to improve housing affordability, strengthen system responsiveness, and support more sustainable growth across Nova Scotia.
+
+## Recommendations 
+
+The strongest recommendation from this analysis is that the Halifax Regional Municipality should prioritize zoning reform that allows higher-density housing in established neighbourhoods, rather than relying mainly on continued suburban greenfield expansion. While both approaches can add housing supply, the system analysis suggests that zoning reform offers the stronger long-term path for improving affordability while also supporting municipal fiscal sustainability. By allowing more duplexes, apartments, and other multi-unit forms of housing in areas with existing infrastructure, HRM can improve supply responsiveness without placing the same long-term servicing burden on the municipality.
+
+The main evidence supporting this recommendation comes from both the exploratory findings and the causal loop analysis. The visualizations show that renter pressure is uneven across communities, housing needs remain persistent over time, and development activity is concentrated in only some areas. This suggests that the existing system is not responding evenly or quickly enough to affordability pressures. The CLD reinforces that point by showing how zoning reform can strengthen a reinforcing loop: more flexible land-use rules support more housing creation, which can improve renter affordability and reduce pressure on prices over time. In contrast, continued outward expansion may add units in the short run, but it also risks increasing infrastructure obligations, dispersing growth, and limiting long-run fiscal efficiency.
+
+That said, this recommendation is not without uncertainty. Its success depends on implementation speed, political support, infrastructure readiness, and whether newly added housing actually reaches the households facing the greatest affordability pressure. If greenfield development could be delivered much faster and at far lower public cost than expected, or if zoning reform faced major delays, the balance of the recommendation could shift somewhat. However, based on the current system structure, zoning reform still appears to be the more effective strategic priority.
+
+The next steps for decision-makers should be practical and targeted. HRM should identify established neighbourhoods where additional density can be added with the least infrastructure strain, update zoning rules to allow more missing-middle housing, and coordinate these changes with transit, utilities, and servicing plans. Decision-makers should also monitor where new housing is being built, whether affordability outcomes are improving, and whether growth is becoming more balanced across communities.
+
+Additional information would strengthen this analysis. More detailed data on housing completions, infrastructure servicing costs, approval timelines, and affordability outcomes by neighbourhood would make it easier to compare reform scenarios more precisely. Even with those limitations, the current evidence supports prioritizing zoning reform as the most effective way to improve affordability and support more sustainable long-term growth in HRM.
+
+## Limitations and Future Work
