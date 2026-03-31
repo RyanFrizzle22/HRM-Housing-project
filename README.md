@@ -50,13 +50,13 @@ https://data-hrm.hub.arcgis.com/datasets/HRM::zoning-boundaries/explore?location
 
 ![visualiztion1](img/viz-renter-households-time.png) 
 
-“This visualization shows the percentage of renter households in core housing need over time. It helps show whether affordability pressures in HRM are improving or worsening, which matters when evaluating whether zoning reform could support more affordable housing options.”
+This visualization shows the percentage of renter households in core housing need over time. It helps show whether affordability pressures in HRM are improving or worsening, which matters when evaluating whether zoning reform could support more affordable housing options.
 
 ## Households vs Renter Households
 
 ![visualization2](img/viz-households-vs-renter-households.png) 
 
-“This visualization shows how renter concentration differs across rental market survey zones in HRM. Higher renter concentration can signal where affordability pressures may be strongest and where policy attention may be most needed.”
+This visualization shows how renter concentration differs across rental market survey zones in HRM. Higher renter concentration can signal where affordability pressures may be strongest and where policy attention may be most needed.
 
 ## Renter Households by Zone
 
@@ -68,7 +68,7 @@ This visualization shows the percentage of renters in different parts of nova sc
 
 ![visualization4](img/viz-projects-by-community.png) 
 
-“This visualization shows the distribution of active residential housing projects across communities in HRM. It helps identify where new supply is concentrated and whether development activity is occurring in the areas facing the greatest housing pressure.” 
+This visualization shows the distribution of active residential housing projects across communities in HRM. It helps identify where new supply is concentrated and whether development activity is occurring in the areas facing the greatest housing pressure.
 
 ## Refined CLD Diagram 
 
