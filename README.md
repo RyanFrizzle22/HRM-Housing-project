@@ -82,7 +82,7 @@ This visualization shows relationships between variables of regular households c
 
 ## Visualization 3 
 
-![visualization3](img/Picture_3.png)
+![visualization3](img/viz-renter-households-by-zone.png) 
 
 This visualization shows the percentage of renters in different parts of nova scotia. This refers to my CLD diagram when breaking down affordability. So, you see that Dartmouth has high renting percentage compared to Bedford as it is more of an affordable place to rent with apartments and duplexes, which are going to be the cheaper option then renting a whole house as Bedford has a more limited option then the higher percentage places.
 
