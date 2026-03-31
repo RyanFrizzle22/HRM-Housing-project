@@ -214,8 +214,8 @@ Another important area for future work would be expanding the project into a sce
 
 ## References
 
-- CMHC Rental Market Report: 
-- Statistics Canada: [link]
+- CMHC Rental Market Report:  https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/rental-market-reports-major-centres
+- Statistics Canada: 
 - Halifax Regional Municipality data portal: [link]
 - LEMR Halifax data maps: [link]
 - HRM zoning boundaries dataset: [link]
