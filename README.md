@@ -13,6 +13,20 @@ This project evaluates the trade-offs between enabling higher-density housing th
 
 ## Live Dashboard
 [View the Streamlit Dashboard here](https://hrm-housing-project-ipzb4fxhbv3d8jhgv9sgdb.streamlit.app/) 
+
+## Table of Contents
+- [Data Sources](#data-sources)
+- [Data Wrangling](#data-wrangling)
+- [Exploratory Findings](#exploratory-findings)
+- [Refined CLD Diagram](#refined-cld-diagram)
+- [Explanation of Key Feedback Loops and Implications for the Decision](#explanation-of-key-feedback-loops-and-implications-for-the-decision)
+- [Analysis](#analysis)
+- [Scenario Narratives](#scenario-narratives)
+- [Leverage Point Analysis](#leverage-point-analysis)
+- [Implications for This Decision](#implications-for-this-decision)
+- [Recommendations](#recommendations)
+- [Limitations and Future Work](#limitations-and-future-work)
+- [References](#references)
  
 ## Data Sources 
 
