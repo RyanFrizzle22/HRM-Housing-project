@@ -25,8 +25,7 @@ This dashboard supports housing policy decision-making in Halifax by helping use
 
 ## Decision Statement 
 
-Should the Nova Scotia prioritze zoning reform to enable higher-density housing in established neighbourhoodsor continue expanding housingsupply through suburban greenfield development, in order to improve affordability while maintaining municipal fiscal sustainabilityy over the next decade. 
-
+Should Nova Scotia prioritize zoning reform to enable higher-density housing in established neighbourhoods, or continue expanding housing supply through suburban greenfield development, in order to improve affordability while maintaining municipal fiscal sustainability over the next decade?
 
 ## Executive Summary 
 
