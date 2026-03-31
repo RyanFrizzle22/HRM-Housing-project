@@ -76,7 +76,7 @@ The implication of these feedback loops for the decision is that zoning reform h
 
 Overall, the system behaves in a way that produces both growth and constraint at the same time. Zoning reform can trigger reinforcing dynamics that improve housing supply and affordability, but structural limits such as land scarcity and rising costs naturally push the system back toward equilibrium. This means affordability challenges are not caused by a single factor, but by interconnected feedback processes. Long-term improvement will depend on managing these feedback loops strategically rather than expecting one policy change to permanently solve the problem.
 
-## Milestone 3: Path A System Focus
+## Analysis
 
 ## System Archyetype Identification 
 
